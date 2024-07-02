@@ -4,7 +4,7 @@ it also provides a function to track which all fingers are closed and opened
 
 This sample is used for sign language detector program , phantom - virtual board ,color picker etc
 
-Developer : Akhil Krishna
+
 """
 
 import cv2
