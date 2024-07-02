@@ -1,6 +1,6 @@
 '''
 Phantom- A Virtual Board
-Developed by Dr.Akhil Krishna
+
 
 White board available to send notes
 
